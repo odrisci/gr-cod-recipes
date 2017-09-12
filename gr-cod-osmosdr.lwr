@@ -32,4 +32,4 @@ description: Interface API independent of the underlying radio hardware
 gitbranch: native_format
 inherit: cmake
 # Let's always build this from source, not binaries
-source: file:///home/cillian/git/gr-osmosdr
+source: file:///home/cillian/git/gr-osmosdr/.git
